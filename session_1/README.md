@@ -26,7 +26,7 @@ Often, a single epoch is not enough to get the best accuracy, so we have to trai
 
 ## 1x1 Conv
 
-Since a 1x1 matrix multiplication is the same a linearly multiplication of 2 numbers, in image classification, its the equivalent of multiplying all the pixel values of an input layer with a floating point value (call the weight).
+Since a 1x1 matrix multiplication is the same a linearly multiplication of 2 numbers, in image classification, its the equivalent of multiplying all the pixel values of an input layer with a floating point value (called the weight).
 
 ## 3x3 Conv
 

@@ -14,6 +14,8 @@ It's entriely possible to manually assign a weight to each and every pixel, (whi
 
 Filters are simply the 2nd term, in the matrix multiplication between the pixel values of the input image, and the filter itself that produces a convolution.
 
+So effectively, this is the matrix containing the weights applied the input layer.
+
 ## Epochs
 
 This is the number of training cycles.

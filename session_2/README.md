@@ -85,6 +85,13 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000285714285714285
 60000/60000 [==============================] - 9s 157us/step - loss: 0.0667 - acc: 0.9828 - val_loss: 0.0238 - val_acc: 0.9939
 ```
 
+Evaluation Result -
+
+```
+>>> model.evaluate(test_images, test_labels)
+[0.023790680991858243, 0.9939]
+```
+
 
 ### General strategy 
 

@@ -1,6 +1,6 @@
 ## Session 2
 
-### Training logs
+### [Training logs](./session_2.ipynb)
 
 Max accuracy - `99.46`
 

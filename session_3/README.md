@@ -50,7 +50,7 @@ conv(98) # output size = 2 x 2 x 98 | receptive field = 108
 
 maxp() # output size = 1 x 1 x 98 | receptive field = 124
 
-model.add(SeparableConv2D(num_classes, 3, padding='same', activation='softmax'))
+model.add(SeparableConv2D(num_classes, 3, padding='same', activation='softmax')) # output size = 1 x 1 x 10 | receptive field = 188
 model.add(Flatten())
 
 model.compile(

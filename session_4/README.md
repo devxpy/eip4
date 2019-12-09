@@ -8,7 +8,7 @@
 Max validation accuracry - `88.090%`
 
 <details>
-<summary> <h3> Logs </h3> </summary>
+<summary> 1. Logs </summary>
 
 <p>
     
@@ -489,11 +489,15 @@ Test accuracy: 0.8792
 </details>
 
 
-### GradCam
+<details>
+<summary> 3. GradCAM </summary>
 
+<p>
+</p>
+</details>
 
 <details>
-<summary> <h3> Model </h3> </summary>
+<summary> 2. Model </summary>
 
 <p>
     

@@ -3,9 +3,9 @@
 - Saved project through online tool (@ ia.inkers.ai)
 - [Exported csv](./via_export_csv.csv)
 
-## Assignment 4B
+## [Assignment 4B](Assignment_4B%20(3).ipynb)
 
-Max validation accuracry - `88.090%`
+Max validation accuracy - `88.090%`
 
 <details>
 <summary> 1. Logs </summary>

@@ -485,6 +485,8 @@ Test loss: 0.49974792008399965
 Test accuracy: 0.8792
 ```
 </p>
+
+</details>
     
 3. [GradCAM](./Assignment_4B%20(GradCAM).ipynb)
 

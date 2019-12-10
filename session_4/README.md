@@ -1,7 +1,7 @@
 ## Assignemnt 4A
 
 - Saved project through online tool (@ ia.inkers.ai)
-- [Exported csv](./via_export_csv.csv)
+- [Exported CSV](./via_export_csv.csv)
 
 ## [Assignment 4B](Assignment_4B%20(3).ipynb)
 

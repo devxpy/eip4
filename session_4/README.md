@@ -11,7 +11,7 @@ Max validation accuracy - `88.090%`
 <summary> 1. Logs </summary>
 
 <p>
-    
+
 ```
 x_train shape: (50000, 32, 32, 3)
 50000 train samples
@@ -486,21 +486,13 @@ Test accuracy: 0.8792
 ```
 </p>
     
-</details>
-
-
-<details>
-<summary> 3. GradCAM </summary>
-
-<p>
-</p>
-</details>
+3. [GradCAM](./Assignment_4B%20(GradCAM).ipynb)
 
 <details>
 <summary> 2. Model </summary>
 
 <p>
-    
+​    
 
 ```python
 from __future__ import print_function
@@ -902,7 +894,7 @@ print('Test loss:', scores[0])
 print('Test accuracy:', scores[1])
 ```
 
-    
+
 </p>
     
 </details>

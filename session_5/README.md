@@ -15,7 +15,7 @@ Results:
 
 ---
 
-(After 29th Dec)
+(After deadline)
 
 Notebook on [colab](https://colab.research.google.com/gist/devxpy/80eef91ea22db6dd62c766ac52694f9b/assignment-5-residual-network.ipynb)
 or [github](./Assignment_5_(2).ipynb).
